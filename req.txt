@@ -1,0 +1,11 @@
+# core
+django
+django-cors-headers
+djangorestframework
+mysqlclient
+gunicorn
+
+# userauth
+djoser
+djangorestframework-jwt
+social-auth-app-django
